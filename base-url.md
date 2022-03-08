@@ -4,6 +4,4 @@ description: Use this URLs to use API.
 
 # Base URL
 
-> [https://riset.luqmanr.xyz](https://riset.luqmanr.xyz/face-api)(priority)\
-> [https://api.riset.ai](https://api.riset.ai/api/face)
-
+> ****[**http://116.206.198.146:8888**](http://116.206.198.146:8888)****

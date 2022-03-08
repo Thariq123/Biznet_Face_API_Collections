@@ -21,23 +21,23 @@ description: This is a tutorial to hit the API with Postman
 
 ## Example
 
-1.Get `access_token` from [AuthTenant](../authtenant.md#1-post-client-login). Copy the `access_token` value.
+1.Get `access_token` from [AuthTenant](broken-reference). Copy the `access_token` value.
 
 ![](../.gitbook/assets/access-token.png)
 
-2\. Set the method and put the URL. (e.g **POST**`/pedulilindungi/enroll-face`)&#x20;
+2\. Set the method and put the URL. (e.g **POST**`/pedulilindungi/enroll-face`)
 
 ![](../.gitbook/assets/pswpold.png)
 
-3\. Choose Header, and add the `Accesstoken`.&#x20;
+3\. Choose Header, and add the `Accesstoken`.
 
 ![](../.gitbook/assets/lqp5isc.png)
 
-4\. Choose Body and select RAW, change type file to JSON.&#x20;
+4\. Choose Body and select RAW, change type file to JSON.
 
 ![](../.gitbook/assets/xhqzlkg.png)
 
-5\. Fill with request JSON text on the body like explained above.&#x20;
+5\. Fill with request JSON text on the body like explained above.
 
 ![](../.gitbook/assets/ahk0je6.png)
 
@@ -49,11 +49,8 @@ description: This is a tutorial to hit the API with Postman
 
 8\. The response output depends on which requests are used.
 
-
-
 ## Postman Documentation
 
 {% embed url="https://documenter.getpostman.com/view/16178629/UVkmRHYF" %}
-Postman Face API -  Collections
+Postman Face API - Collections
 {% endembed %}
-

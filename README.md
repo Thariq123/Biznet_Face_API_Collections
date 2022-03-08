@@ -8,7 +8,7 @@ description: >-
 
 ![](.gitbook/assets/risetai\_logo.72c56424.png)
 
-> ### _Our face products use models based on locally developed data sets. These models are perfect solutions for seamless non-contact authentication. This technology can be integrated with other authentication factors and authentication mechanisms, creating a multimodal verification technique._
+> #### _Our face products use models based on locally developed data sets. These models are perfect solutions for seamless non-contact authentication. This technology can be integrated with other authentication factors and authentication mechanisms, creating a multimodal verification technique._
 
 {% content-ref url="getting-started.md" %}
 [getting-started.md](getting-started.md)
@@ -22,8 +22,8 @@ description: >-
 [base-url.md](base-url.md)
 {% endcontent-ref %}
 
-{% content-ref url="authtenant.md" %}
-[authtenant.md](authtenant.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="apis/" %}
