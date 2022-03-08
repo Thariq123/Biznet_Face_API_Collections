@@ -51,6 +51,6 @@ description: This is a tutorial to hit the API with Postman
 
 ## Postman Documentation
 
-{% embed url="https://documenter.getpostman.com/view/16178629/UVkmRHYF" %}
-Postman Face API - Collections
+{% embed url="https://documenter.getpostman.com/view/16178629/UVsEVpHD" %}
+Postman API
 {% endembed %}
