@@ -14,9 +14,9 @@ This API fetches the client's API counters remaining quota (API Hits, Num Faces 
 
 #### **`Headers`**
 
-| KEY             | VALUE               |
-| --------------- | ------------------- |
-| **Accesstoken** | `oauth Accesstoken` |
+| KEY             | VALUE      |
+| --------------- | ---------- |
+| **Accesstoken** | `Token ID` |
 
 #### **`Body`**
 
@@ -71,9 +71,9 @@ This API gives the list of facegallery.
 
 #### **`Headers`**
 
-| KEY             | VALUE               |
-| --------------- | ------------------- |
-| **Accesstoken** | `oauth Accesstoken` |
+| KEY             | VALUE      |
+| --------------- | ---------- |
+| **Accesstoken** | `Token ID` |
 
 #### **`Body`**
 
@@ -114,9 +114,9 @@ This API creates the new face gallery.
 
 #### **`Headers`**
 
-| KEY             | VALUE               |
-| --------------- | ------------------- |
-| **Accesstoken** | `oauth Accesstoken` |
+| KEY             | VALUE      |
+| --------------- | ---------- |
+| **Accesstoken** | `Token ID` |
 
 #### **`Body`**
 
@@ -164,9 +164,9 @@ This API deletes a facegallery.
 
 #### **`Headers`**
 
-| KEY             | VALUE               |
-| --------------- | ------------------- |
-| **Accesstoken** | `oauth Accesstoken` |
+| KEY             | VALUE      |
+| --------------- | ---------- |
+| **Accesstoken** | `Token ID` |
 
 #### **`Body`**
 
@@ -216,9 +216,9 @@ This API registers a user to the database.
 
 #### **`Headers`**
 
-| KEY             | VALUE               |
-| --------------- | ------------------- |
-| **Accesstoken** | `oauth Accesstoken` |
+| KEY             | VALUE      |
+| --------------- | ---------- |
+| **Accesstoken** | `Token ID` |
 
 #### **`Body`**
 
@@ -270,9 +270,9 @@ This API gives a list of the registered user.
 
 #### **`Headers`**
 
-| KEY             | VALUE               |
-| --------------- | ------------------- |
-| **Accesstoken** | `oauth Accesstoken` |
+| KEY             | VALUE      |
+| --------------- | ---------- |
+| **Accesstoken** | `Token ID` |
 
 #### **`Body`**
 
@@ -329,9 +329,9 @@ This API verifies an user\_id and an image with a registered user or it does 1:1
 
 #### **`Headers`**
 
-| KEY             | VALUE               |
-| --------------- | ------------------- |
-| **Accesstoken** | `oauth Accesstoken` |
+| KEY             | VALUE      |
+| --------------- | ---------- |
+| **Accesstoken** | `Token ID` |
 
 #### **`Body`**
 
@@ -389,9 +389,9 @@ This API identify an image with a registered user or it do 1:N authentication.
 
 #### **`Headers`**
 
-| KEY             | VALUE               |
-| --------------- | ------------------- |
-| **Accesstoken** | `oauth Accesstoken` |
+| KEY             | VALUE      |
+| --------------- | ---------- |
+| **Accesstoken** | `Token ID` |
 
 #### **`Body`**
 
@@ -452,9 +452,9 @@ This API deletes a user.
 
 #### **`Headers`**
 
-| KEY             | VALUE               |
-| --------------- | ------------------- |
-| **Accesstoken** | `oauth Accesstoken` |
+| KEY             | VALUE      |
+| --------------- | ---------- |
+| **Accesstoken** | `Token ID` |
 
 #### **`Body`**
 
@@ -502,9 +502,9 @@ This API compares the two images to determine if they are verified or not. This 
 
 #### **`Headers`**
 
-| KEY             | VALUE               |
-| --------------- | ------------------- |
-| **Accesstoken** | `oauth Accesstoken` |
+| KEY             | VALUE      |
+| --------------- | ---------- |
+| **Accesstoken** | `Token ID` |
 
 #### **`Body`**
 

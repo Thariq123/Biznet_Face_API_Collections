@@ -5,7 +5,6 @@
 * [Foundation](foundation/README.md)
   * [Face Identification](foundation/face-identification.md)
   * [Face Verification](foundation/face-verification.md)
-  * [Liveness](foundation/liveness.md)
   * [Reference Image Requirements](foundation/reference-image-requirements.md)
   * [Device Set-Up Requirements](foundation/device-set-up-requirements.md)
 * [Base URL](base-url.md)

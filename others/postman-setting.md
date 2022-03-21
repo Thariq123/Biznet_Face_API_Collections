@@ -6,7 +6,7 @@ description: This is a tutorial to hit the API with Postman
 
 ## Steps
 
-1. Get the `Accesstoken`.
+1. Get the `Token ID`.
 2. Choose POST, GET or DELETE method.
 3. Fill in the URL according to the API you want to do.
 4. Choose Header.
@@ -21,7 +21,7 @@ description: This is a tutorial to hit the API with Postman
 
 ## Example
 
-1.Get `access_token` from [AuthTenant](broken-reference). Copy the `access_token` value.
+1.Get a `Token ID`. Copy the `Token ID` value.
 
 ![](../.gitbook/assets/access-token.png)
 
@@ -29,7 +29,7 @@ description: This is a tutorial to hit the API with Postman
 
 ![](../.gitbook/assets/pswpold.png)
 
-3\. Choose Header, and add the `Accesstoken`.
+3\. Choose Header, and add the `Token ID`.
 
 ![](../.gitbook/assets/lqp5isc.png)
 
