@@ -1,14 +1,15 @@
 # Getting Started
 
-## 1. Get client\_id and password
+## 1. Get Token ID
 
-Will be differ
+* Login into [https://portal.biznetgio.com](https://portal.biznetgio.com)
+* In the sidebar select AI and ML, then Face Recognition
+* Click Create New Face Recognition Service&#x20;
+* Fill in Service Name and Select Package, then press next&#x20;
+* Choose a payment method, then click order, and make payment&#x20;
+* Click the service that has been created, on the service page there is Token ID information
 
-## 2. Get Accestoken
-
-Get `Acccestoken` to be able to hit API, please refer to this [API](broken-reference) to get the `Accestoken`.
-
-## 3. Take a Peek in Topology of API
+## 2. Take a Peek in Topology of API
 
 The following is a generic top-level view of the system. You are the client.
 
