@@ -16,7 +16,7 @@ This API fetches the client's API counters remaining quota (API Hits, Num Faces 
 
 | KEY             | VALUE      |
 | --------------- | ---------- |
-| **Accesstoken** | `Token ID` |
+| **Accesstoken** | `token_id` |
 
 #### **`Body`**
 
@@ -73,7 +73,7 @@ This API gives the list of facegallery.
 
 | KEY             | VALUE      |
 | --------------- | ---------- |
-| **Accesstoken** | `Token ID` |
+| **Accesstoken** | `token_id` |
 
 #### **`Body`**
 
@@ -116,7 +116,7 @@ This API creates the new face gallery.
 
 | KEY             | VALUE      |
 | --------------- | ---------- |
-| **Accesstoken** | `Token ID` |
+| **Accesstoken** | `token_id` |
 
 #### **`Body`**
 
@@ -166,7 +166,7 @@ This API deletes a facegallery.
 
 | KEY             | VALUE      |
 | --------------- | ---------- |
-| **Accesstoken** | `Token ID` |
+| **Accesstoken** | `token_id` |
 
 #### **`Body`**
 
@@ -218,7 +218,7 @@ This API registers a user to the database.
 
 | KEY             | VALUE      |
 | --------------- | ---------- |
-| **Accesstoken** | `Token ID` |
+| **Accesstoken** | `token_id` |
 
 #### **`Body`**
 
@@ -272,7 +272,7 @@ This API gives a list of the registered user.
 
 | KEY             | VALUE      |
 | --------------- | ---------- |
-| **Accesstoken** | `Token ID` |
+| **Accesstoken** | `token_id` |
 
 #### **`Body`**
 
@@ -331,7 +331,7 @@ This API verifies an user\_id and an image with a registered user or it does 1:1
 
 | KEY             | VALUE      |
 | --------------- | ---------- |
-| **Accesstoken** | `Token ID` |
+| **Accesstoken** | `token_id` |
 
 #### **`Body`**
 
@@ -391,7 +391,7 @@ This API identify an image with a registered user or it do 1:N authentication.
 
 | KEY             | VALUE      |
 | --------------- | ---------- |
-| **Accesstoken** | `Token ID` |
+| **Accesstoken** | `token_id` |
 
 #### **`Body`**
 
@@ -454,7 +454,7 @@ This API deletes a user.
 
 | KEY             | VALUE      |
 | --------------- | ---------- |
-| **Accesstoken** | `Token ID` |
+| **Accesstoken** | `token_id` |
 
 #### **`Body`**
 
@@ -504,7 +504,7 @@ This API compares the two images to determine if they are verified or not. This 
 
 | KEY             | VALUE      |
 | --------------- | ---------- |
-| **Accesstoken** | `Token ID` |
+| **Accesstoken** | `token_id` |
 
 #### **`Body`**
 
